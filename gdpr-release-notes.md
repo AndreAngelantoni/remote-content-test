@@ -1,3 +1,8 @@
+---
+title: GDPR
+description: Release Notes for the GDPR module
+---
+
 ## 7.1.1
 
 ### Notes
